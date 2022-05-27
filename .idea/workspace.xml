@@ -5,12 +5,30 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2170a80b-fc1f-4bd7-8735-066ec7dff377" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/parcial/ejercicio2/prototype/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/parcial/ejercicio2/prototype/ITelevisor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/parcial/ejercicio2/prototype/TelevisorPrototype.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/parcial/ejercicio3/abstractfactory/Artefacto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/parcial/ejercicio3/abstractfactory/Batidora.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/parcial/ejercicio3/abstractfactory/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/parcial/ejercicio3/abstractfactory/FactoryArtefacto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/parcial/ejercicio3/abstractfactory/Microondas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/parcial/ejercicio3/abstractfactory/Radio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/parcial/ejercicio3/abstractfactory/Refrigerador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/parcial/ejercicio3/abstractfactory/Television.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/parcial/ejercicio4/builder/Builder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/parcial/ejercicio4/builder/Cine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/parcial/ejercicio4/builder/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/parcial/ejercicio4/builder/MegaPaquete.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/parcial/ejercicio4/builder/Paquete.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/parcial/ejercicio4/builder/PaqueteMediano.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/parcial/ejercicio4/builder/PaqueteNormal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/parcial/ejercicio5/interpreter/AbstractExpression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/parcial/ejercicio5/interpreter/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/parcial/ejercicio5/interpreter/Context.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/parcial/ejercicio5/interpreter/Interpreter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/parcial/ejercicio5/interpreter/Multiplicacion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/parcial/ejercicio5/interpreter/Numero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/parcial/ejercicio5/interpreter/Suma.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/parcial/ejercicio1/singleton/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/parcial/ejercicio1/singleton/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/parcial/ejercicio1/singleton/ControlPeaje.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/parcial/ejercicio1/singleton/ControlPeaje.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +44,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Enum" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -49,45 +68,23 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/dylan/Documents/Patrones de Diseño/Examen_1_Patrones/src/main/java/structure",
+    "last_opened_file_path": "C:/Users/dylan/Documents/Patrones de Diseño/Examen_1_Patrones/src/main/java/parcial/ejercicio5/interpreter",
     "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\dylan\Documents\Patrones de Diseño\Examen_1_Patrones\src\main\java\parcial\ejercicio5\interpreter" />
+      <recent name="C:\Users\dylan\Documents\Patrones de Diseño\Examen_1_Patrones\src\main\java\parcial\ejercicio4\builder" />
       <recent name="C:\Users\dylan\Documents\Patrones de Diseño\Examen_1_Patrones\src\main\java\structure" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="parcial.ejercicio5.interpreter" />
+      <recent name="parcial.ejercicio4.builder" />
       <recent name="parcial.ejercicio2.prototype" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.parcial.ejercicio2.prototype.Client">
-    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="structure.abstractFactory.structure.Client" />
-      <module name="Examen_1_Patrones.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="structure.abstractFactory.structure.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="parcial.Test" />
-      <module name="Examen_1_Patrones.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="parcial.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.parcial.ejercicio5.interpreter.Client">
     <configuration name="parcial.ejercicio1.singleton.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="parcial.ejercicio1.singleton.Client" />
       <module name="Examen_1_Patrones.main" />
@@ -114,12 +111,52 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="parcial.ejercicio3.abstractfactory.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="parcial.ejercicio3.abstractfactory.Client" />
+      <module name="Examen_1_Patrones.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="parcial.ejercicio3.abstractfactory.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="parcial.ejercicio4.builder.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="parcial.ejercicio4.builder.Client" />
+      <module name="Examen_1_Patrones.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="parcial.ejercicio4.builder.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="parcial.ejercicio5.interpreter.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="parcial.ejercicio5.interpreter.Client" />
+      <module name="Examen_1_Patrones.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="parcial.ejercicio5.interpreter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.parcial.ejercicio5.interpreter.Client" />
+        <item itemvalue="Application.parcial.ejercicio4.builder.Client" />
+        <item itemvalue="Application.parcial.ejercicio3.abstractfactory.Client" />
         <item itemvalue="Application.parcial.ejercicio2.prototype.Client" />
         <item itemvalue="Application.parcial.ejercicio1.singleton.Client" />
-        <item itemvalue="Application.Client" />
-        <item itemvalue="Application.Test" />
       </list>
     </recent_temporary>
   </component>
@@ -161,5 +198,16 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/parcial/ejercicio5/interpreter/Numero.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

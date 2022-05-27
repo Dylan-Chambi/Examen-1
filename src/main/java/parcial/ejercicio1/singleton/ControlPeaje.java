@@ -34,13 +34,13 @@ public enum ControlPeaje {
     }
 
     public void verPeajeRecaudado(){
-        System.out.println("Hasta el momento se recaudo: " + peajeCobrado + " de " + vehiculosRegistrados.size() + " vehiculos");
+        System.out.println("Hasta el momento se recaudo " + peajeCobrado + " de " + vehiculosRegistrados.size() + " vehiculos");
     }
 
     public void verVehiculosQuePasaron(){
         System.out.println("Pasaron en total " + vehiculosRegistrados.size() + " vehiculos");
         for(int i = 0; i < vehiculosRegistrados.size(); i ++){
-            System.out.println("Vehiculo " + i);
+            System.out.println("Vehiculo " + (i+1));
             System.out.println("- Placa: " + vehiculosRegistrados.get(i).getPlaca());
             System.out.println("- Marca: " + vehiculosRegistrados.get(i).getMarca());
             System.out.println("- Color: " + vehiculosRegistrados.get(i).getColor());

@@ -5,10 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2170a80b-fc1f-4bd7-8735-066ec7dff377" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/parcial/ejercicio1/singleton/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/parcial/ejercicio1/singleton/ControlPeaje.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/parcial/ejercicio1/singleton/Vehiculo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/parcial/ejercicio2/prototype/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/parcial/ejercicio2/prototype/ITelevisor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/parcial/ejercicio2/prototype/TelevisorPrototype.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/parcial/ejercicio1/singleton/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/parcial/ejercicio1/singleton/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/parcial/ejercicio1/singleton/ControlPeaje.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/parcial/ejercicio1/singleton/ControlPeaje.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,8 +57,11 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\dylan\Documents\Patrones de Diseño\Examen_1_Patrones\src\main\java\structure" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="parcial.ejercicio2.prototype" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.Client">
+  <component name="RunManager" selected="Application.parcial.ejercicio2.prototype.Client">
     <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="structure.abstractFactory.structure.Client" />
       <module name="Examen_1_Patrones.main" />
@@ -83,8 +88,36 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="parcial.ejercicio1.singleton.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="parcial.ejercicio1.singleton.Client" />
+      <module name="Examen_1_Patrones.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="parcial.ejercicio1.singleton.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="parcial.ejercicio2.prototype.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="parcial.ejercicio2.prototype.Client" />
+      <module name="Examen_1_Patrones.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="parcial.ejercicio2.prototype.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.parcial.ejercicio2.prototype.Client" />
+        <item itemvalue="Application.parcial.ejercicio1.singleton.Client" />
         <item itemvalue="Application.Client" />
         <item itemvalue="Application.Test" />
       </list>

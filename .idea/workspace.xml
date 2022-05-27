@@ -5,46 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2170a80b-fc1f-4bd7-8735-066ec7dff377" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/structure/abstractFactory/structure/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/structure/abstractFactory/structure/ConcreteProduct1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/structure/abstractFactory/structure/ConcreteProduct2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/structure/abstractFactory/structure/ConcreteProduct3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/structure/abstractFactory/structure/FactoryProduct.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/structure/abstractFactory/structure/IProduct.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/structure/builder/strcuture/Builder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/structure/builder/strcuture/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/structure/builder/strcuture/ConcreteBuilder1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/structure/builder/strcuture/ConcreteBuilder2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/structure/builder/strcuture/Director.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/structure/builder/strcuture/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/structure/factoryMethod/strcuture/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/structure/factoryMethod/strcuture/ConcreteCreatorP1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/structure/factoryMethod/strcuture/ConcreteCreatorP2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/structure/factoryMethod/strcuture/ConcreteProduct1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/structure/factoryMethod/strcuture/ConcreteProduct2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/structure/factoryMethod/strcuture/Creator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/structure/factoryMethod/strcuture/IProduct.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/structure/interpreter/strcuture/AbstractExpression.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/structure/interpreter/strcuture/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/structure/interpreter/strcuture/Context.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/structure/interpreter/strcuture/NonTerminalExpressionParser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/structure/interpreter/strcuture/TerminalExpressionA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/structure/interpreter/strcuture/TerminalExpressionB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/structure/interpreter/strcuture/TerminalExpressionC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/structure/interpreter/strcuture/TerminalExpressionD.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/structure/interpreter/strcuture/TerminalExpressionE.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/structure/prototype/structure/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/structure/prototype/structure/ConcretePrototype1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/structure/prototype/structure/ConcretePrototype2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/structure/prototype/structure/IPrototype.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/structure/singleton/structure/ClientSingleton1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/structure/singleton/structure/ClientSingleton2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/structure/singleton/structure/ClientSingleton3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/structure/singleton/structure/ClientSingleton3Correct.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/structure/singleton/structure/Singleton1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/structure/singleton/structure/Singleton2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/structure/singleton/structure/Singleton3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/structure/singleton/structure/Singleton4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/parcial/ejercicio1/singleton/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/parcial/ejercicio1/singleton/ControlPeaje.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/parcial/ejercicio1/singleton/Vehiculo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -60,6 +23,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -71,7 +35,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="29jF6PVQSboIslvW6OELETwyWXO" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -85,7 +51,25 @@
     "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\dylan\Documents\Patrones de Diseño\Examen_1_Patrones\src\main\java\structure" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Client">
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="structure.abstractFactory.structure.Client" />
+      <module name="Examen_1_Patrones.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="structure.abstractFactory.structure.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="parcial.Test" />
       <module name="Examen_1_Patrones.main" />
@@ -101,6 +85,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Client" />
         <item itemvalue="Application.Test" />
       </list>
     </recent_temporary>
